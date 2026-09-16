@@ -1,0 +1,32 @@
+# Log files
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+.env/
+.venv/
+
+# VS Code settings
+
+.vscode/
